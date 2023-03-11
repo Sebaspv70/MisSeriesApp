@@ -12,6 +12,10 @@ import net.yslibrary.android.keyboardvisibilityevent.KeyboardVisibilityEvent
 import net.yslibrary.android.keyboardvisibilityevent.util.UIUtil
 import java.util.Arrays
 
+
+/*
+* Punto 2 practica 2
+* */
 class SignUpActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
     private lateinit var signUpBinding: ActivitySignUpBinding
     private lateinit var aaCountires: ArrayAdapter<String>
